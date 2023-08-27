@@ -16,9 +16,6 @@ import org.testng.annotations.Test;
 
 public class ExplicitWait {
 	
-	
-
-//	public static void main(String[] args) throws InterruptedException {
 		
 		@Test
 		void explicitwaittest() throws InterruptedException {

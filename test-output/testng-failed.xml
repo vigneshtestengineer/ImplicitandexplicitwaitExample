@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="ImplicitandexplicitwaitExample.ExplicitWait">
+      <class name="HandliningMultipleTabs.TwoTabHandling">
         <methods>
-          <include name="explicitwaittest"/>
+          <include name="handlingtab"/>
         </methods>
-      </class> <!-- ImplicitandexplicitwaitExample.ExplicitWait -->
+      </class> <!-- HandliningMultipleTabs.TwoTabHandling -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
